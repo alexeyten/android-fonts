@@ -20,6 +20,23 @@
 
     <family>
         <nameset>
+            <name>sans-serif</name>
+            <name>Open Sans</name>
+            <name>opensans</name>
+            <name>arial</name>
+            <name>helvetica</name>
+            <name>verdana</name>
+        </nameset>
+        <fileset>
+            <file>OpenSans-Regular.ttf</file>
+            <file>OpenSans-Bold.ttf</file>
+            <file>OpenSans-Italic.ttf</file>
+            <file>OpenSans-BoldItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
             <name>Roboto Slab</name>
             <name>robotoslab</name>
         </nameset>
@@ -31,11 +48,8 @@
 
     <family>
         <nameset>
-            <name>sans-serif</name>
-            <name>arial</name>
-            <name>helvetica</name>
+            <name>roboto</name>
             <name>tahoma</name>
-            <name>verdana</name>
         </nameset>
         <fileset>
             <file>Roboto-Regular.ttf</file>
